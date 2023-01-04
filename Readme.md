@@ -18,4 +18,4 @@ This challenge is designed to help you improve your DSA skills and prepare for t
 
 
 ## Github Resources
-1. [Hot to Upload files to Github](https://www.youtube.com/watch?v=eGaImwD8fPQ)
+1. [How to Upload files to Github](https://www.youtube.com/watch?v=eGaImwD8fPQ)
