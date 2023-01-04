@@ -10,28 +10,12 @@ This challenge is designed to help you improve your DSA skills and prepare for t
 3. Each week, you will receive 15 questions from a different company. You have 5 days to solve as many questions as possible.
 
 ## Submissions
-1. Fork this Repository into your github account. 
-2. Create a new folder on your device & 6 subfolder in them for each company.
-3. Each week you will solve the questions and save the code in the specified companies folder. 
-4. Then each week you will upload the entire folder to your github repo.
-5. You will also create a merge request to merge your folder to the main repo.
-6. At the end of the challenge, the top performers will be recognized on the leaderboard.
-
-## Submission Folder Structure
-- Name_Year_Branch
-    - Company Name 
-        - Question_Number
-        - Question_Number
-        - ...
-    - Company Name 2
-    - Company Name 3
-    - Company Name 4
-    - Company Name 5
-    - Company Name 6
-
+1. Create a github repository "6Companies_30days_{name}"
+2. Each Week create folder for the company "{Company_name}"
+3. Each week commit all the solved questions into that folder.
+4. Link this github repository in the Google Form which will be circulated. (This allows us to monitor your progress)
+5. __Top Contributors will be rewarded__
 
 
 ## Github Resources
-1. [How to Fork Github Repository](https://www.youtube.com/watch?v=l5NrYIa_aG4)
-2. [How to create a Pull Request](https://www.youtube.com/watch?v=OVQK2zzb6U8)
-3. [Hot to Upload files to Github](https://www.youtube.com/watch?v=eGaImwD8fPQ)
+1. [Hot to Upload files to Github](https://www.youtube.com/watch?v=eGaImwD8fPQ)
